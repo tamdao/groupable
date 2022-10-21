@@ -11,19 +11,18 @@
     "hot",
     "reload"
   ],
-  "homepage": "https://github.com/tamdao/groupable/electron-react-boilerplate#readme",
+  "homepage": "https://github.com/tamdao/groupable#readme",
   "bugs": {
-    "url": "https://github.com/tamdao/groupable/electron-react-boilerplate/issues"
+    "url": "https://github.com/tamdao/groupable/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tamdao/groupable/electron-react-boilerplate.git"
+    "url": "git+https://github.com/tamdao/groupable.git"
   },
   "license": "MIT",
   "author": {
     "name": "Tam Dao",
-    "email": "daotam4536@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "email": "daotam4536@gmail.com"
   },
   "contributors": [
     {
@@ -244,8 +243,8 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate"
+      "owner": "tamdao",
+      "repo": "groupable"
     }
   },
   "collective": {
