@@ -25,12 +25,12 @@
 Clone the repo and install dependencies:
 
 ```bash
-git clone --depth 1 --branch main https://github.com/electron-react-boilerplate/electron-react-boilerplate.git your-project-name
+git clone --depth 1 --branch main https://github.com/tamdao/groupable/electron-react-boilerplate.git your-project-name
 cd your-project-name
 npm install
 ```
 
-**Having issues installing? See our [debugging guide](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/400)**
+**Having issues installing? See our [debugging guide](https://github.com/tamdao/groupable/electron-react-boilerplate/issues/400)**
 
 ## Starting Development
 
@@ -149,11 +149,11 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 
 ## License
 
-MIT © [Electron React Boilerplate](https://github.com/electron-react-boilerplate)
+MIT © [Electron React Boilerplate](https://github.com/tamdao/groupable)
 
-[github-actions-status]: https://github.com/electron-react-boilerplate/electron-react-boilerplate/workflows/Test/badge.svg
-[github-actions-url]: https://github.com/electron-react-boilerplate/electron-react-boilerplate/actions
+[github-actions-status]: https://github.com/tamdao/groupable/electron-react-boilerplate/workflows/Test/badge.svg
+[github-actions-url]: https://github.com/tamdao/groupable/electron-react-boilerplate/actions
 [github-tag-image]: https://img.shields.io/github/tag/electron-react-boilerplate/electron-react-boilerplate.svg?label=version
-[github-tag-url]: https://github.com/electron-react-boilerplate/electron-react-boilerplate/releases/latest
+[github-tag-url]: https://github.com/tamdao/groupable/electron-react-boilerplate/releases/latest
 [stackoverflow-img]: https://img.shields.io/badge/stackoverflow-electron_react_boilerplate-blue.svg
 [stackoverflow-url]: https://stackoverflow.com/questions/tagged/electron-react-boilerplate

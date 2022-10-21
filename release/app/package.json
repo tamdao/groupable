@@ -6,7 +6,7 @@
   "author": {
     "name": "Tam Dao",
     "email": "daotam4536@gmail.com",
-    "url": "https://github.com/electron-react-boilerplate"
+    "url": "https://github.com/tamdao/groupable"
   },
   "main": "./dist/main/main.js",
   "scripts": {
